@@ -1,0 +1,82 @@
+{
+    "බල්ලා": {
+        "roman": "balla",
+        "phonemes": ["b", "a", "l", "l", "a:"]
+    },
+    "ඉබ්බා": {
+        "roman": "ibba",
+        "phonemes": ["i", "b", "b", "a"]
+    },
+    "දත්": {
+        "roman": "dath",
+        "phonemes": ["d", "a", "th"]
+    },
+    "පොඩ්ඩක් ": {
+        "roman": "poddak",
+        "phonemes": ["p", "o", "d", "d", "a", "k"]
+    },
+    "සමනලයා": {
+        "roman": "samanalaya",
+        "phonemes": ["s", "a", "m", "a", "n", "a", "l", "a", "y", "a:"]
+    },
+    "මදුරුවා": {
+        "roman": "maduruwa",
+        "phonemes": ["m", "a", "d", "u", "r", "u", "w", "a:"]
+    },
+    "ලූනු": {
+        "roman": "lunu",
+        "phonemes": ["l", "u:", "n", "u"]
+    },
+    "අන්නාසි": {
+        "roman": "annasi",
+        "phonemes": ["a", "n", "n", "a:", "s", "i"]
+    },
+    "හාවා": {
+        "roman": "hawa",
+        "phonemes": ["h", "a:", "w", "a:"]
+    },
+    "යතුර": {
+        "roman": "yathura",
+        "phonemes": ["y", "a", "th", "u", "r", "a"]
+    },
+    "තරුව": {
+        "roman": "tharuwa",
+        "phonemes": ["th", "a", "r", "u", "w", "a"]
+    },
+    "ඔලුව": {
+        "roman": "oluwa",
+        "phonemes": ["o", "l", "u", "w", "a"]
+    },
+    "අහස": {
+        "roman": "ahasa",
+        "phonemes": ["a", "h", "a", "s", "a"]
+    },
+    "ගස": {
+        "roman": "gasa",
+        "phonemes": ["g", "a", "s", "a"]
+    },
+    "කහ": {
+        "roman": "kaha",
+        "phonemes": ["k", "a", "h", "a"]
+    },
+    "සබන්": {
+        "roman": "saban",
+        "phonemes": ["s", "a", "b", "a", "n"]
+    },
+    "අයිස්ක්‍රීම්": {
+        "roman": "aiskrim",
+        "phonemes": ["a", "i", "s", "k", "r", "i:", "m"]
+    },
+    "සපත්තුව": {
+        "roman": "sapaththuwa",
+        "phonemes": ["s", "a", "p", "a", "th", "th", "u", "w", "a"]
+    },
+    "ප්‍රශ්න": {
+        "roman": "prashna",
+        "phonemes": ["p", "r", "a", "sh", "n", "a"]
+    },
+    "ක්‍රීඩාව": {
+        "roman": "kridawa",
+        "phonemes": ["k", "r", "i:", "d", "a", "w", "a"]
+    }
+}
