@@ -1,82 +1,82 @@
 {
-    "බල්ලා": {
-        "roman": "balla",
+    "balla": {
+        "sinhala": "බල්ලා",
         "phonemes": ["b", "a", "l", "l", "a:"]
     },
-    "ඉබ්බා": {
-        "roman": "ibba",
+    "ibba": {
+        "sinhala": "ඉබ්බා",
         "phonemes": ["i", "b", "b", "a"]
     },
-    "දත්": {
-        "roman": "dath",
+    "dath": {
+        "sinhala": "දත්",
         "phonemes": ["d", "a", "th"]
     },
-    "පොඩ්ඩක් ": {
-        "roman": "poddak",
+    "poddak": {
+        "sinhala": "පොඩ්ඩක්",
         "phonemes": ["p", "o", "d", "d", "a", "k"]
     },
-    "සමනලයා": {
-        "roman": "samanalaya",
+    "samanalaya": {
+        "sinhala": "සමනලයා",
         "phonemes": ["s", "a", "m", "a", "n", "a", "l", "a", "y", "a:"]
     },
-    "මදුරුවා": {
-        "roman": "maduruwa",
+    "maduruwa": {
+        "sinhala": "මදුරුවා",
         "phonemes": ["m", "a", "d", "u", "r", "u", "w", "a:"]
     },
-    "ලූනු": {
-        "roman": "lunu",
+    "lunu": {
+        "sinhala": "ලූනු",
         "phonemes": ["l", "u:", "n", "u"]
     },
-    "අන්නාසි": {
-        "roman": "annasi",
+    "annasi": {
+        "sinhala": "අන්නාසි",
         "phonemes": ["a", "n", "n", "a:", "s", "i"]
     },
-    "හාවා": {
-        "roman": "hawa",
+    "hawa": {
+        "sinhala": "හාවා",
         "phonemes": ["h", "a:", "w", "a:"]
     },
-    "යතුර": {
-        "roman": "yathura",
+    "yathura": {
+        "sinhala": "යතුර",
         "phonemes": ["y", "a", "th", "u", "r", "a"]
     },
-    "තරුව": {
-        "roman": "tharuwa",
+    "tharuwa": {
+        "sinhala": "තරුව",
         "phonemes": ["th", "a", "r", "u", "w", "a"]
     },
-    "ඔලුව": {
-        "roman": "oluwa",
+    "oluwa": {
+        "sinhala": "ඔලුව",
         "phonemes": ["o", "l", "u", "w", "a"]
     },
-    "අහස": {
-        "roman": "ahasa",
+    "ahasa": {
+        "sinhala": "අහස",
         "phonemes": ["a", "h", "a", "s", "a"]
     },
-    "ගස": {
-        "roman": "gasa",
+    "gasa": {
+        "sinhala": "ගස",
         "phonemes": ["g", "a", "s", "a"]
     },
-    "කහ": {
-        "roman": "kaha",
+    "kaha": {
+        "sinhala": "කහ",
         "phonemes": ["k", "a", "h", "a"]
     },
-    "සබන්": {
-        "roman": "saban",
+    "saban": {
+        "sinhala": "සබන්",
         "phonemes": ["s", "a", "b", "a", "n"]
     },
-    "අයිස්ක්‍රීම්": {
-        "roman": "aiskrim",
+    "aiskrim": {
+        "sinhala": "අයිස්ක්‍රීම්",
         "phonemes": ["a", "i", "s", "k", "r", "i:", "m"]
     },
-    "සපත්තුව": {
-        "roman": "sapaththuwa",
+    "sapaththuwa": {
+        "sinhala": "සපත්තුව",
         "phonemes": ["s", "a", "p", "a", "th", "th", "u", "w", "a"]
     },
-    "ප්‍රශ්න": {
-        "roman": "prashna",
+    "prashna": {
+        "sinhala": "ප්‍රශ්න",
         "phonemes": ["p", "r", "a", "sh", "n", "a"]
     },
-    "ක්‍රීඩාව": {
-        "roman": "kridawa",
+    "kridawa": {
+        "sinhala": "ක්‍රීඩාව",
         "phonemes": ["k", "r", "i:", "d", "a", "w", "a"]
     }
 }
